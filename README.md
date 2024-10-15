@@ -1,5 +1,5 @@
-# 💫 Hello
-I'm currently learning fullstack webdevelopment.
+# 💫 Hello!
+I'm currently learning frontend webdevelopment.
 
 
 ## 🌐 Socials:
