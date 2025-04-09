@@ -1,6 +1,6 @@
-<p align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm+Mahfuz+Shihab;A+Crazy+Fullstack+Webdeveloper)](https://git.io/typing-svg)
-</p>
+
 
 <p align="center">
   I'm currently learning frontend web development.  
