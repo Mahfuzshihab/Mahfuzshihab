@@ -3,8 +3,7 @@
 
 
 <p align="center">
-  I'm currently learning frontend web development.  
-  I’m passionate about creating engaging and interactive web experiences that make a real impact. 😎
+ I'm a web developer with a business background, but technology has always caught my interest. I started learning to code on my own at home, and now I'm fully into web development, currently studying ICT at Business College, Helsinki. 😎
 </p>
 
 ---
