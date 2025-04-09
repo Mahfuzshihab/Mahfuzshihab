@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+here;I'm+A+Fullstack+Webdeveloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+It's+Mahfuz+Shihab;I'm+A+Fullstack+Webdeveloper)](https://git.io/typing-svg)
 I'm currently learning frontend webdevelopment.
 
 
