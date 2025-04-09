@@ -8,7 +8,8 @@ I'm currently learning frontend webdevelopment.
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=radical&hide_border=true&layout=pie&langs_count=8)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mahfuzshihab&icon=0&color=0)](https://visitcount.itsvg.in)
