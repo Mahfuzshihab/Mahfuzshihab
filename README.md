@@ -1,34 +1,39 @@
-<div align="center">
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm+Mahfuz+Shihab;A+Crazy+Fullstack+Webdeveloper)](https://git.io/typing-svg)
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm+Mahfuz+Shihab;A+Crazy+Fullstack+Webdeveloper)](https://git.io/typing-svg)
-
-I'm currently learning frontend web development.  
-I’m passionate about creating engaging and interactive web experiences that make a real impact. 😎
+<p align="center">
+  I'm currently learning frontend web development.  
+  I’m passionate about creating engaging and interactive web experiences that make a real impact. 😎
+</p>
 
 ---
 
 ### 💻 Let's Connect:
 
-📩 [Email Me](mailto:your-email@example.com)  
-🌍 Location: Helsinki, Finland
+<p align="center">
+  📩 [Email Me](mailto:your-email@example.com)  
+  🌍 Location: Helsinki, Finland
+</p>
 
 ---
 
-🤘 **Hobbies:**
+### 🤘 Hobbies:
 
-⛰️ Hiking  
-📚 Reading Novels  
-🎮 Video Games
+<p align="center">
+  ⛰️ Hiking  
+  📚 Reading Novels  
+  🎮 Video Games
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=radical&hide_border=true&count_private=true&layout=compact)
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=radical&hide_border=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
