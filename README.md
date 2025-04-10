@@ -31,5 +31,5 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzshihab&theme=radical&hide_border=true&count_private=true&layout=compact" alt="Top Languages" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 </p>
