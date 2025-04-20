@@ -24,5 +24,6 @@
 ### 📊 Most Used Languages
 
 <p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzshihab&hide_progress=true&cache_seconds=86400" alt="Top Langs" />
 </p>
+
