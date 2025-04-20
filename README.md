@@ -22,8 +22,9 @@
 ---
 
 ### 📊 Most Used Languages
+<p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzshihab&layout=compact&cache_seconds=86400)
 
-
+/p>
 
