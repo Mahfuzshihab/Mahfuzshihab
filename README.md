@@ -8,16 +8,16 @@
 
 ### 💻 Let's Connect:
 
-📩 [Email Me](mailto:your-email@example.com)  
+📩 [Email Me](mailto:mahfuzshihab.fin@gmail.com)  
 🌍 Location: Helsinki, Finland
 
 ---
 
-### 🤘 Hobbies:
+### 🤘 Like to do:
 
 ⛰️ Hiking  
 📚 Reading Novels  
-🎮 Video Games
+🎮 Gaming
 
 ---
 
