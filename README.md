@@ -9,7 +9,6 @@
 ### 💻 Let's Connect:
 
 📩 [Email Me](mailto:mahfuzshihab.fin@gmail.com)  
-🌍 Location: Helsinki, Finland
 
 ---
 
